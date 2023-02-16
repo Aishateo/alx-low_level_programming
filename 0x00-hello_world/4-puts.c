@@ -3,7 +3,7 @@
  * main -Print a line of code using puts
  *
  * Ruturn: 0
- */
+*/
 
 int main(void)
 {
