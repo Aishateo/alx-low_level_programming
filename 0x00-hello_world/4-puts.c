@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -print a line of code using puts
- *
- * Ruturn: 0
+*main -print a line of code using puts
+*
+*Ruturn: 0
 */
 int main(void)
 {
