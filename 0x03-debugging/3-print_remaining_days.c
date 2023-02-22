@@ -1,6 +1,3 @@
-3-print_remaining_days.c CODE
-
-
 #include <stdio.h>
 #include "main.h"
 
